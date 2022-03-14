@@ -13,6 +13,8 @@ public class HelloGitHub {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello GitHub");
+		System.out.println("Lucas Tamashiro");
+		
 	}
 
 }
