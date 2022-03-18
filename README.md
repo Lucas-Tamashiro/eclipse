@@ -1,2 +1,2 @@
 # eclipse
-Integração da IDE Eclipse com o GitHub
+Área de treino Java via Eclipe
